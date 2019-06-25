@@ -1,2 +1,2 @@
 #AuthorIdentifcation_HOGFeatures
-Author identifcation using hand written characters  images
+Author identifcation using hand written character images
